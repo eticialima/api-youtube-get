@@ -5,6 +5,7 @@
 <img src="git/demo.png?raw=true"/>
 
 ### Ferramentas
+* jupyter notebook
 * Python
 * Pandas
 * API youtube 
