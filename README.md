@@ -2,7 +2,7 @@
  
 ### Previa
  
-<img src="git/demo.jpg?raw=true"/>
+<img src="git/demo.png?raw=true"/>
 
 ### Ferramentas
 * Python
