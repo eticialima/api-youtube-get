@@ -10,7 +10,7 @@
 * Pandas
 * API youtube 
 
-<p>Estudo relacionado a esse video <a href="https://www.youtube.com/watch?v=olDCJ1w3FLM">aqui</a>, onde usamos API do youtube para extrair dados de uma playlist e representa-lo em uma tabela.  
+<p>Estudo relacionado a esse video <a href="https://www.youtube.com/watch?v=olDCJ1w3FLM">aqui</a>, onde consumimos API do youtube para extrair dados de uma playlist e representa-lo em uma tabela.  
 
 ### Arquivos no repositorio
 * api_youtube_dados.ipnb
