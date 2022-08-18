@@ -2,7 +2,7 @@
 
 from googleapiclient.discovery import build
 
-youTubeApiKey="AIzaSyCUaui5jWxEAoa0jXCEDKZ-ecOmJ38pKQE"
+youTubeApiKey="GOOGLE_API_CREDENCIAIS"
 youtube = build('youtube','v3', developerKey=youTubeApiKey)
 
 playlistId = 'PLBogheOqVjI-J4iPPteanK4Ft-pRBUnKj'
